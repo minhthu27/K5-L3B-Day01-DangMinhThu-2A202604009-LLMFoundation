@@ -26,7 +26,7 @@
 | 4b. LLM lớn zero-shot (gpt-oss-120b) | 0.952 | 0.952 | 2442.52 | 0* |
 | 4c. LLM nhỏ few-shot (4 ví dụ) | 0.952 | 0.952 | 2557.59 | 0* |
 
-\* Chạy trên gói Free của Groq và model chưa có trong bảng giá của notebook nên chi phí hiện là 0. Nếu tính theo giá gpt-6-luna ($0.10 / $0.50 mỗi 1M token) với prompt ~100 token input, 1 token output thì khoảng $0.0105 / 1k tin.
+\* Chạy trên gói Free của Groq và model chưa có trong bảng giá của notebook nên chi phí hiện là 0. Nếu tính theo giá gpt-6-luna ($0.10 / $0.50 mỗi 1M token) với prompt khoảng 100 token input, 1 token output thì khoảng $0.0105 / 1k tin.
 
 ## 3. Dự đoán và thực tế
 
